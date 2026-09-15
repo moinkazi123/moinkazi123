@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,100:412991&height=200&section=header&text=Hi%20There!%20👋%20I'm%20Moin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0089D6&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Opus+Technologies;Building+GenAI+%2B+RAG+systems;Spring+Boot+%2B+Angular+%2B+Azure+OpenAI;Turning+LLMs+into+production+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0089D6&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Opus+Technologies;Turning+LLMs+into+production+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,8 +11,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-🔭 Building GenAI-powered systems @ <b>Opus Technologies</b><br/>
-🧠 Focused on RAG pipelines, hybrid retrieval, and multi-agent workflow tooling<br/>
+🔭 Building GenAI-powered systems for global payment network clients @ <b>Opus Technologies</b><br/>
 🌍 Based in India
 </p>
 
@@ -79,7 +78,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%" height="3"/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=moinkazi123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Moin's GitHub stats" width="48%"/>
@@ -94,4 +93,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=moinkazi123&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:0089D6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:0089D6&height=100&section=footer" width="100%"/> -->
